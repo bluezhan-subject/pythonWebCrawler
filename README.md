@@ -28,7 +28,9 @@ http://python.jobbole.com/81332/
 http://urllib3.readthedocs.io/
 
 
+#### Scrapy
 
+http://scrapy-chs.readthedocs.io/zh_CN/0.24/index.html
 
 
 

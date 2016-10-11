@@ -64,20 +64,19 @@ http://scrapy-chs.readthedocs.io/zh_CN/1.0/index.html
 目录为：
 
 ```JavaScript
- tutorial/
-    scrapy.cfg
-    tutorial/
+ project/  //项目名字
+    scrapy.cfg  //项目的配置文件
+    project/
         __init__.py
         items.py
         pipelines.py
         settings.py
-        spiders/
+        spiders/  //储爬虫的目录
             __init__.py
             ...
-
 ```
 
-
+#### 不想说了
 
 
 

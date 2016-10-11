@@ -30,7 +30,7 @@ http://urllib3.readthedocs.io/
 
 #### Scrapy
 
-http://scrapy-chs.readthedocs.io/zh_CN/0.24/index.html
+http://scrapy-chs.readthedocs.io/zh_CN/0.24/index.html  
 http://scrapy-chs.readthedocs.io/zh_CN/1.0/index.html
 
 发现大部分的资料都是 为Python2.7的版本整理的
